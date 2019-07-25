@@ -8,12 +8,19 @@
 > - what are the best airports/states in terms of delayed and cancelled flighes?
 > - what are the best airlines in terms of delayed and cancelled flighes?
 > - what are the best flights in terms of delayed and cancelled flighes?
+<<<<<<< HEAD
+
+[Dateset Source](http://stat-computing.org/dataexpo/2009/the-data.html)
+=======
+>>>>>>> 2c06da035f74e1cbb98db078c74cb4083390739b
 
 [Dateset Source](http://stat-computing.org/dataexpo/2009/the-data.html)
 
+## Prerequisite
+- Installing jupyter-gmaps: `conda install -c conda-forge gmaps`.
+- creating an API key in Google [instructions](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend&keyType=CLIENT_SIDE&reusekey=true).
 
-## Summary of Findings
-
+<<<<<<< HEAD
 > - The rate of cancelled flights is high in Pierre Regional Airport, Pueblo Memorial Airport & Tupelo Regional Airport.
 > - The rate of delayed departures is distributed in the whole US.
 > - The rate of delayed arrivals is high in Pueblo Memorial Airport.
@@ -27,3 +34,5 @@
 ## Prerequisite
 - Installing jupyter-gmaps: `conda install -c conda-forge gmaps`.
 - creating an API key in Google [instructions](https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend&keyType=CLIENT_SIDE&reusekey=true).
+=======
+>>>>>>> 2c06da035f74e1cbb98db078c74cb4083390739b
