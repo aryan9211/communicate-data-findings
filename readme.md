@@ -11,6 +11,7 @@
 [Dateset Source](http://stat-computing.org/dataexpo/2009/the-data.html)
 
 
+
 ## Summary of Findings
 > - The rate of cancelled flights is high in Pierre Regional Airport, Pueblo Memorial Airport & Tupelo Regional Airport.
 > - The rate of delayed departures is distributed in the whole US.
@@ -18,7 +19,7 @@
 
 
 ## Key Insights for Presentation
-> AM Flights (day flights) have more cancelled flights than PM flight, while PM flights have more delayed flights than AM flights.
+> AM Flights (day flights) have more cancelled flights than PM flights, while PM flights have more delayed flights than AM flights.
 
 
 ## Prerequisite
